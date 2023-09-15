@@ -1,3 +1,5 @@
+**Repository in public archive**. Please consider visiting [our new preprocessing service in use](https://github.com/Gravitate-Health/preprocessing-service-mvp2)
+
 # Gravitate Health Preprocessing service example
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
